@@ -1,0 +1,31 @@
+body{
+background: white;
+font-family: 'Akaya Telivigala', cursive;
+
+}
+.header_div{
+    background: rgb(126, 125, 125);
+    color: white;
+}
+.header_div p{
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    width: 130px;
+}
+.footer{
+color:rgb(143, 142, 142);
+font-size: 18px;
+text-align: center;
+width: 100%;
+position: fixed;
+bottom: 0px;
+background-color: rgb(255, 255, 255);
+line-height: 3;
+text-shadow: 5px 5px 5px rgb(136, 142, 147);
+}
+
+h4{
+    font-size: 25px;
+}
